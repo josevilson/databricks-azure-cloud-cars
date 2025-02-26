@@ -57,6 +57,4 @@ Organização dos dados em camadas para garantir maior governança e qualidade d
 ## 🔗 Tags
 #DataEngineering #Azure #BigData #Databricks #SQL #ETL #PySpark #DataLake #DataFactory
 
----
-🚀 **Engenharia de Dados no Cloud Azure: Transformando dados em insights!**
 
