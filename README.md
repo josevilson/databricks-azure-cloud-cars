@@ -9,9 +9,9 @@ Feliz demais em finalizar este projeto aplicando as melhores práticas de engenh
 ✅ Azure Data Lake Storage Gen2  
 
 ## 🔹 Arquitetura!
-![Arquitetura](./1.png)
+![Arquitetura](./imgs/1.png)
 
-![Setup](./2.png)
+![Setup](./imgs/2.png)
 
 
 ## 🔹 Principais Práticas do Projeto
