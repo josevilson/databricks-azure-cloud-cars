@@ -1,0 +1,9 @@
+{
+	"name": "adf-cars-vilson",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41cd15cd-0024-4c7b-a48b-124349d96451",
+		"tenantId": "9794a561-d438-44a2-ad15-6f059cf421e2"
+	}
+}
