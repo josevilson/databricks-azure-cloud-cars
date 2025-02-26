@@ -11,13 +11,16 @@ Feliz demais em finalizar este projeto aplicando as melhores práticas de engenh
 ## 🔹 Arquitetura!
 ![Arquitetura](./imgs/1.png)
 
+## 🔹 Setup Azure Cloud
+
 ![Setup](./imgs/2.png)
 
+## 🔹 Source
+
+![Fonte de Dados SQL](./imgs/3.png)
 
 ## 🔹 Principais Práticas do Projeto
 ### Arquitetura Medallion (Bronze, Prata e Ouro)
-
-![Fonte de Dados SQL](./imgs/3.png)
 
 Organização dos dados em camadas para garantir maior governança e qualidade dos dados:
 - **Camada Bronze**: Dados brutos ingeridos pelo Azure Data Factory.
@@ -28,11 +31,12 @@ Organização dos dados em camadas para garantir maior governança e qualidade d
 ✅ Uso do **Azure Data Factory** para extração de dados e carregamento no Data Lake.  
 ✅ Processamento no **Azure Databricks com PySpark** para transformação dos dados.
 
+![Incremental Load](./imgs/4.png)
 
 ### 🔹 Modelagem e Disponibilização
 
 
-![Incremental Load](./imgs/4.png)
+![Incremental Load](./imgs/5.png)
 
 📂 **Incremental Data** - Processamento de dados de forma incremental para eficiência e escalabilidade.  
 📊 **One Big Table (OBT)** - Estratégia de otimização para consultas de alto desempenho.  
